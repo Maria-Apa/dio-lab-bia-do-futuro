@@ -48,6 +48,6 @@ O grande diferencial do Lumi é transformar dúvidas que muitas pessoas têm ver
 
 ## Link do Vídeo
 
-> Cole aqui o link do seu pitch (Google Drive)
+> Clique aqui para visualizar o video do projeto. 
 
 [[https://drive.google.com/file/d/19dAxBmLfN-Yub_anCMkzxEqmF5eLHQYl/view?usp=sharing](https://drive.google.com/file/d/1TngAEMwHGTrWt9fdkPn-M8R99CCSAsM7/view?usp=drive_link)
